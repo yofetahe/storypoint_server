@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8b864f7a-77f1-4c3c-9812-2f431607ce89/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/MyPokerBoardServer",
+    "appService.deploySubpath": "."
+}
